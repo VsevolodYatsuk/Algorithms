@@ -33,7 +33,6 @@ class HashTable:
 if __name__ == "__main__":
     hash_table = HashTable(size=10)
 
-    # Вставка пар ключ-значение
     hash_table.insert("apple", 10)
     hash_table.insert("banana", 20)
     hash_table.insert("orange", 30)
