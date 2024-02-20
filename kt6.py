@@ -37,7 +37,6 @@ class Queue:
         print()
 
 
-# Пример использования
 if __name__ == "__main__":
     queue = Queue()
     
