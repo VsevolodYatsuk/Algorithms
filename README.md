@@ -1,3 +1,5 @@
+Скриншоты с ответами к каждой задаче: <br>
+
 kt1: <br>
 ![image](https://github.com/VsevolodYatsuk/Algorithms/assets/130091517/52c16860-c585-4384-bc97-c7e90c18b444) <br>
 kt2: <br>
